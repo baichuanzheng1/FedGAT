@@ -1,0 +1,17 @@
+{	
+	"no_models" : 4,
+	
+	"global_epochs" : 10,
+	
+	"local_epochs" : 2,
+	
+	"k" : 3,
+	
+	"batch_size" : 128,
+	
+	"lr" : 0.0005,
+	
+	"lambda" : 0.5,
+	
+	"weight_decay" : 1e-4
+}
